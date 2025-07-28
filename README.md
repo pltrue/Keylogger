@@ -1,7 +1,7 @@
 # Keylogger เพื่อการศึกษา (Educational Keylogger)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Keylogger](https://img.shields.io/badge/Keylogger-8A2BE2)
 
 โปรเจกต์นี้เป็น Keylogger พื้นฐานที่สร้างขึ้นด้วยภาษา Python เพื่อสาธิตวิธีการดักจับและบันทึกการกดแป้นพิมพ์ โปรเจกต์นี้มีวัตถุประสงค์เพื่อการศึกษาและทำความเข้าใจหลักการทำงานของซอฟต์แวร์ประเภทนี้เท่านั้น
 
