@@ -31,11 +31,11 @@
 
 | หน้าต่างควบคุม (สถานะ: หยุดทำงาน) | หน้าต่างควบคุม (สถานะ: กำลังทำงาน) |
 | :------------------------------: | :--------------------------------: |
-| <!-- Placeholder for image 1: GUI stopped --> <img src="https://via.placeholder.com/400x420.png?text=GUI+(Stopped)" alt="GUI Stopped" width="350"> | <!-- Placeholder for image 2: GUI running --> <img src="https://via.placeholder.com/400x420.png?text=GUI+(Running)" alt="GUI Running" width="350"> |
+| <!-- Placeholder for image 1: GUI stopped --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-003251.png" alt="GUI Stopped" width="350"> | <!-- Placeholder for image 2: GUI running --> <img src="https://img2.pic.in.th/pic/Screenshot-2025-07-29-003347.png" alt="GUI Running" width="350"> |
 
 | ตัวอย่างไฟล์ Log | ไอคอนใน System Tray | กล่องข้อความแจ้งเตือน |
 | :---------------------------: | :-----------------: | :-----------------: |
-| <!-- Placeholder for image 3: Log file example --> <img src="https://via.placeholder.com/400x250.png?text=key_log.txt" alt="Log File Example" width="350"> | <!-- Placeholder for image 4: Tray icon --> <img src="https://via.placeholder.com/400x250.png?text=System+Tray+Icon" alt="System Tray Icon" width="350"> | <!-- Placeholder for image 5: Message box --> <img src="https://via.placeholder.com/400x250.png?text=Message+Box" alt="Message Box" width="350"> |
+| <!-- Placeholder for image 3: Log file example --> <img src="https://img2.pic.in.th/pic/Screenshot-2025-07-29-003530.png" alt="Log File Example" width="350"> | <!-- Placeholder for image 4: Tray icon --> <img src="https://cdn-icons-png.flaticon.com/128/4616/4616403.png" alt="System Tray Icon" width="350"> | <!-- Placeholder for image 5: Message box --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-003557.png" alt="Message Box" width="350"> |
 
 
 ## ⚙️ สิ่งที่ต้องมี (Prerequisites)
