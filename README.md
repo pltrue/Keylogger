@@ -30,7 +30,7 @@
 
 | หน้าต่างควบคุม (สถานะ: หยุดทำงาน) | หน้าต่างควบคุม (สถานะ: กำลังทำงาน) |
 | :------------------------------: | :--------------------------------: |
-| <!-- Placeholder for image 1: GUI stopped --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-003251.png" alt="GUI Stopped" width="350"> | <!-- Placeholder for image 2: GUI running --> <img src="https://img2.pic.in.th/pic/Screenshot-2025-07-29-003347.png" alt="GUI Running" width="350"> |
+| <!-- Placeholder for image 1: GUI stopped --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-003251.png" alt="GUI Stopped" width="350"> | <!-- Placeholder for image 2: GUI running --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-182538.png" alt="GUI Running" width="350"> |
 
 | ตัวอย่างไฟล์ Log | ไอคอนใน System Tray | กล่องข้อความแจ้งเตือน |
 | :---------------------------: | :-----------------: | :-----------------: |
