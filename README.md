@@ -61,11 +61,11 @@ requests
 
 1.  **Clone repository นี้:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/pltrue/Keylogger.git
     ```
 2.  **เข้าไปในโฟลเดอร์ของโปรเจกต์:**
     ```bash
-    cd your-repository-name
+    cd Keylogger
     ```
 3.  **ติดตั้งไลบรารีที่จำเป็น:**
     ```bash
