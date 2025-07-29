@@ -34,7 +34,7 @@
 
 | ตัวอย่างไฟล์ Log | ไอคอนใน System Tray | กล่องข้อความแจ้งเตือน |
 | :---------------------------: | :-----------------: | :-----------------: |
-| <!-- Placeholder for image 3: Log file example --> <img src="https://img2.pic.in.th/pic/Screenshot-2025-07-29-003530.png" alt="Log File Example" width="350"> | <!-- Placeholder for image 4: Tray icon --> <img src="https://cdn-icons-png.flaticon.com/128/4616/4616403.png" alt="System Tray Icon" width="350"> | <!-- Placeholder for image 5: Message box --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-003557.png" alt="Message Box" width="350"> |
+| <!-- Placeholder for image 3: Log file example --> <img src="https://img2.pic.in.th/pic/Screenshot-2025-07-29-003530.png" alt="Log File Example" width="350"> | <!-- Placeholder for image 4: Tray icon --> <img src="https://img2.pic.in.th/pic/alert25303e16bd1d6654.png" alt="System Tray Icon" width="350"> | <!-- Placeholder for image 5: Message box --> <img src="https://img5.pic.in.th/file/secure-sv1/Screenshot-2025-07-29-003557.png" alt="Message Box" width="350"> |
 
 ## 🚀 การติดตั้งและใช้งาน
 
